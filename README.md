@@ -4,5 +4,5 @@ Junior SOC analyst. SC-200 certified. Threat hunting, incident investigation and
 
 | Section | Description |
 |---|---|
-| [KC7](kc7/) | Threat hunting investigations with KQL |
+| [KC7 (KQL Threat Hunting)](kc7-kql-threat-hunting/) | Threat hunting and incident investigations using KQL |
 | [Sentinel Lab](sentinel-lab/) | Home lab with Microsoft Sentinel |
