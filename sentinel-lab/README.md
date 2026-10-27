@@ -11,7 +11,8 @@ The goal is to practise detection engineering on a real Sentinel workspace, beyo
 | 1 | Build the lab and verify that logs arrive | Done | [Read on Medium](https://medium.com/@ed.cavaillez/microsoft-sentinel-detection-lab-part-e6213cac3e75?sharedUserId=ed.cavaillez) |
 | 2 | First detection: RDP brute-force rule | Done | [Read on Medium](https://medium.com/@ed.cavaillez/from-logs-to-a-brute-force-detection-in-microsoft-sentinel-part-2-2c61dba41dd3?sharedUserId=ed.cavaillez) |
 | 3 | Simulating attacks with Atomic Red Team and mapping to MITRE ATT&CK | Done | [Read on Medium](https://medium.com/@ed.cavaillez/simulating-attacks-with-atomic-red-team-and-mapping-to-mitre-att-ck-part-3-8d6c70a950e5?sharedUserId=ed.cavaillez) |
-| 4 | Investigating an incident, costs and clean-up | Coming Soon | |
+| 4 | Investigating an incident, costs and clean-up | [Done] | [Read on Medium](https://medium.com/@ed.cavaillez/investigating-an-incident-end-to-end-part-4-a252e5242b06?sharedUserId=ed.cavaillez) |
+| 5 | Bonus part | Soon |  |
 
 ## Architecture
 
